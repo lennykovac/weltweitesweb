@@ -1,0 +1,29 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	flex-direction: column;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+}
+
+h1 {
+	font-size: 50px;
+	margin: 0;
+}
+
+p {
+	letter-spacing: 2px;
+	margin: 0;
+}
